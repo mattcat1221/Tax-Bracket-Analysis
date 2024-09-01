@@ -37,10 +37,6 @@ There may be concerns about equity, as reductions in top bracket rates typically
 Summary:
 The tax data over the years 2016 to 2020 reflects stability in the bottom tax bracket, while significant changes in the top bracket reflect broader tax policy shifts. The changes seem to favor higher-income earners, particularly from 2018 onwards, aligning with legislative changes in U.S. tax policy.
 
-Recommendations:
-Further analysis could include comparing these trends with inflation rates and overall economic growth to assess the broader impact of these tax changes.
-Additionally, visualizing these trends through line charts could provide clearer insights into the shifts over time.
-Would you like to explore any specific aspects further, or would you like a visual representation of this data?
 
 
 ## Table of Contents
