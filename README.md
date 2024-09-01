@@ -41,7 +41,6 @@ If there are any questions or concerns, I can be reached at:
 ##### [github: mattcat1221](https://github.com/mattcat1221)
 ##### [email: caseyvmatthews@gmail.com](mailto:caseyvmatthews@gmail.com)
 
-<img width="858" alt="image" src="https://github.com/user-attachments/assets/b81b8833-0b86-489a-9357-a339abd09279">
 
 
 
