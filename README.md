@@ -5,6 +5,9 @@
 ## Website: 
 [website](https://github.com/mattcat1221/Tax-Bracket-Analysis)
 
+![219B6927-4C30-4A4D-8A95-57CDEC4A2A18](https://github.com/user-attachments/assets/c134c8a8-3bd0-49c8-a923-8093653c28ff)
+
+
 ## Description
 This project is a comprehensive analysis of U.S. federal income tax brackets over the years. The goal is to visualize and understand the changes in tax rates and taxable income thresholds for different income groups, providing insights into how tax policies have evolved over time.  Features Historical Data Analysis: The project includes tax data spanning over a century, allowing for a detailed examination of trends and patterns in U.S. federal income tax brackets. Visualization: The analysis is supported by visualizations created using Python libraries such as Plotly, which help in better understanding the data. Comparison: Compare the tax burden across different income groups by analyzing the effective tax rates and the maximum taxes paid by low and high-income earners. Installation To run this project locally, you'll need to have Python installed. The project also requires several Python packages which can be installed using pip.  Prerequisites Python 3.6 or higher pandas plotly openpyxl (for working with Excel files)
 Tax Bracket Analysis Report
@@ -70,7 +73,6 @@ This report provides a comprehensive analysis of tax bracket trends, changes in 
 Summary:
 The tax data over the years 2016 to 2020 reflects stability in the bottom tax bracket, while significant changes in the top bracket reflect broader tax policy shifts. The changes seem to favor higher-income earners, particularly from 2018 onwards, aligning with legislative changes in U.S. tax policy.
 
-![image](https://github.com/user-attachments/assets/7df145e9-dee3-4f3c-b343-602f9e703968)
 
 ## Table of Contents
 - [Installation](#installation)
