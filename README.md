@@ -34,8 +34,36 @@ Revenue Impact:
 The reduction in the top bracket rate could lead to lower tax revenue from high-income individuals unless offset by economic growth or increased taxable income.
 Equity Concerns:
 There may be concerns about equity, as reductions in top bracket rates typically benefit higher-income individuals more than lower-income individuals.
+
+Summary Statistics
+•	Bottom Bracket Rate %:
+o	Range: 1% to 23%
+o	Mean: 11.92%
+•	Top Bracket Rate %:
+o	Range: 7% to 94%
+o	Mean: 56.59%
+•	Bottom Bracket Taxable Income:
+o	Range: $1,000 to $45,200
+o	Mean: $10,483.49
+•	Top Bracket Taxable Income:
+o	Range: $29,750 to $5,000,000
+o	Mean: $633,041.60
+Trends Over the Years:
+•	Tax Rates:
+o	The bottom bracket rate has generally been stable at around 10% in recent years.
+o	The top bracket rate has significantly decreased from the highs of 67% or more in the early 20th century to around 37% in recent years.
+•	Taxable Income Thresholds:
+o	The bottom bracket taxable income threshold has increased over time, indicating adjustments for inflation and changes in economic conditions.
+o	The top bracket taxable income threshold has also increased significantly, reflecting changes in income distribution and tax policy.
+Observations:
+•	The spread between the top and bottom tax rates has narrowed in recent decades, with the top rates dropping substantially from their historical highs.
+•	The taxable income thresholds for both brackets have generally increased, particularly for the top bracket, which indicates a shift in the tax burden towards higher income levels over time.
+
 Summary:
 The tax data over the years 2016 to 2020 reflects stability in the bottom tax bracket, while significant changes in the top bracket reflect broader tax policy shifts. The changes seem to favor higher-income earners, particularly from 2018 onwards, aligning with legislative changes in U.S. tax policy.
+
+![image](https://github.com/user-attachments/assets/7df145e9-dee3-4f3c-b343-602f9e703968)
+
 
 
 
